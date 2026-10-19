@@ -1,7 +1,19 @@
-# X / Twitter
-0.0.0.0 x.com
-0.0.0.0 www.x.com
-0.0.0.0 twitter.com
-0.0.0.0 www.twitter.com
-0.0.0.0 mobile.twitter.com
-0.0.0.0 t.co
+# X / Twitter core
+twitter.com
+www.twitter.com
+mobile.twitter.com
+api.twitter.com
+api.x.com
+x.com
+www.x.com
+mobile.x.com
+
+# URL shortener and redirects
+t.co
+
+# Images, videos, and media
+twimg.com
+pbs.twimg.com
+video.twimg.com
+abs.twimg.com
+ton.twimg.com
