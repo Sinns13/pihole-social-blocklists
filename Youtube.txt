@@ -1,52 +1,49 @@
-
-# YouTube Comprehensive Blocklist
-# Repository: pihole-social-blocklists
+# Pihole-youtube-blocklist
+# Plain-domain list — import this file as an Adlist in Pi-hole
+# (Group Management > Adlists) to block YouTube's core domains.
 #
-# SECTION 1: DOMAINS
-# These entries can be used in a standard Pi-hole Adlist.
+# NOTE: Google serves YouTube video/streaming traffic from a huge,
+# constantly-changing set of *.googlevideo.com edge hostnames
+# (e.g. rr3---sn-abc123.googlevideo.com) that cannot be enumerated
+# in a static list. For a complete block, ALSO add the regex
+# patterns in regex.txt under Domains > Regex denylist in Pi-hole.
+# See README.md for full setup instructions.
 
 youtube.com
 www.youtube.com
 m.youtube.com
 music.youtube.com
 gaming.youtube.com
-kids.youtube.com
-studio.youtube.com
 tv.youtube.com
-youtubekids.com
-youtubeeducation.com
-youtubecreatorstudio.com
-youtube.tv
+studio.youtube.com
+support.youtube.com
+upload.youtube.com
+accounts.youtube.com
+img.youtube.com
+s.youtube.com
+youtube-nocookie.com
+www.youtube-nocookie.com
 youtu.be
 yt.be
-youtube-nocookie.com
-googlevideo.com
-redirector.googlevideo.com
-manifest.googlevideo.com
 ytimg.com
-ggpht.com
-youtubeanalytics.com
-youtubeexperiments.com
-youtube.googleapis.com
+i.ytimg.com
+i1.ytimg.com
+i2.ytimg.com
+i3.ytimg.com
+i4.ytimg.com
+i9.ytimg.com
+s.ytimg.com
+yt3.ggpht.com
+yt4.ggpht.com
+yt3.googleusercontent.com
+googlevideo.com
 youtubei.googleapis.com
-youtubeembeddedplayer.googleapis.com
+youtube.googleapis.com
+wide-youtube.l.google.com
 youtube-ui.l.google.com
-youtube.l.google.com
-
-# SECTION 2: REGEX RULES
-# These are NOT imported as regex by a standard Pi-hole Adlist.
-# Add them individually as Regex Deny rules in Pi-hole.
-
-(^|\.)youtube\.com$
-(^|\.)youtu\.be$
-(^|\.)yt\.be$
-(^|\.)youtube-nocookie\.com$
-(^|\.)youtubekids\.com$
-(^|\.)youtubeeducation\.com$
-(^|\.)youtubecreatorstudio\.com$
-(^|\.)youtube\.tv$
-(^|\.)googlevideo\.com$
-(^|\.)ytimg\.com$
-(^|\.)ggpht\.com$
-(^|\.)youtubeanalytics\.com$
-(^|\.)youtubeexperiments\.com$
+video.google.com
+youtubeeducation.com
+youtubekids.com
+m.youtubekids.com
+youtubegaming.com
+jnn-pa.googleapis.com
