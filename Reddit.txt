@@ -1,6 +1,66 @@
-# Reddit
-0.0.0.0 reddit.com
-0.0.0.0 www.reddit.com
-0.0.0.0 old.reddit.com
-0.0.0.0 m.reddit.com
-0.0.0.0 redd.it
+# Reddit main domains
+reddit.com
+www.reddit.com
+old.reddit.com
+new.reddit.com
+m.reddit.com
+np.reddit.com
+amp.reddit.com
+i.reddit.com
+ssl.reddit.com
+pay.reddit.com
+out.reddit.com
+accounts.reddit.com
+mod.reddit.com
+developers.reddit.com
+support.reddit.com
+help.reddit.com
+about.reddit.com
+business.reddit.com
+ads.reddit.com
+redditinc.com
+reddithelp.com
+
+# Reddit media and image hosting
+redditmedia.com
+i.redd.it
+v.redd.it
+preview.redd.it
+external-preview.redd.it
+styles.redditmedia.com
+preview.redditmedia.com
+www.redditmedia.com
+redditstatic.com
+reddit uploads.com
+
+# Reddit video and streaming
+reddit-video.com
+v.redd.it
+packaged-media.redd.it
+
+# Reddit links and short URLs
+redd.it
+reddit.app.link
+reddit.com.link
+
+# Reddit chat and messaging
+chat.reddit.com
+gql.reddit.com
+gateway.reddit.com
+
+# Reddit APIs and services
+api.reddit.com
+oauth.reddit.com
+oauth.reddithelp.com
+gateway.reddithelp.com
+events.reddit.com
+events.redditmedia.com
+w3-reporting.reddit.com
+w3-reporting-nel.reddit.com
+e.reddit.com
+
+# Reddit advertising and analytics
+ads-api.reddit.com
+events.redditmedia.com
+pixel.reddit.com
+analytics.reddit.com
