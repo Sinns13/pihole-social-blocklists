@@ -1,4 +1,61 @@
-# Snapchat
-0.0.0.0 snapchat.com
-0.0.0.0 www.snapchat.com
-0.0.0.0 web.snapchat.com
+# Snapchat main domains
+snapchat.com
+www.snapchat.com
+accounts.snapchat.com
+support.snapchat.com
+businesshelp.snapchat.com
+forbusiness.snapchat.com
+business.snapchat.com
+blog.snapchat.com
+help.snapchat.com
+web.snapchat.com
+my.snapchat.com
+app.snapchat.com
+story.snapchat.com
+snaporiginals.snapchat.com
+snapcamera.snapchat.com
+lensstudio.snapchat.com
+lens.snapchat.com
+developers.snapchat.com
+kit.snapchat.com
+api-kit.snapchat.com
+snapcodes.snapchat.com
+snapads.com
+snapkit.com
+
+# Snapchat advertising and analytics
+ads.snapchat.com
+adsapi.snapchat.com
+adsapi2.snapchat.com
+app-analytics.snapchat.com
+app-analytics-v2.snapchat.com
+marketingapi.snapchat.com
+click.snapchat.com
+link.snapchat.com
+tr.snapchat.com
+rtam-collector.snapchat.com
+
+# Snapchat APIs
+aws.api.snapchat.com
+gcp.api.snapchat.com
+usc1-gcp-v61.api.snapchat.com
+usc1-gcp-v62.api.snapchat.com
+us-east1-aws.api.snapchat.com
+us-east4-gcp.api.snapchat.com
+us-central1-gcp.api.snapchat.com
+ap-southeast1-aws.api.snapchat.com
+asia-southeast1-ping-gcp.api.snapchat.com
+interact-api.snapchat.com
+
+# Snapchat features and services
+geofilters.snapchat.com
+map.snapchat.com
+minis.snapchat.com
+create.snapchat.com
+scan.snapchat.com
+profile.snapchat.com
+static.snapchat.com
+wallet.snapchat.com
+store.snapchat.com
+snap-publisher.snapchat.com
+snappublisher.snapchat.com
