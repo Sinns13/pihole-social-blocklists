@@ -1,0 +1,4 @@
+# Snapchat
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 web.snapchat.com

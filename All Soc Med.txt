@@ -1,0 +1,93 @@
+# ==========================================
+# SOCIAL MEDIA BLOCKLIST - WINDOWS 11
+# ==========================================
+
+# Facebook
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 fb.com
+0.0.0.0 www.fb.com
+0.0.0.0 fb.watch
+0.0.0.0 messenger.com
+0.0.0.0 www.messenger.com
+
+# Instagram
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 threads.net
+0.0.0.0 www.threads.net
+
+# TikTok
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 vm.tiktok.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+
+# YouTube
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 www.youtube-nocookie.com
+
+# X / Twitter
+0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 t.co
+
+# Reddit
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 old.reddit.com
+0.0.0.0 m.reddit.com
+0.0.0.0 redd.it
+
+# Snapchat
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 web.snapchat.com
+
+# Discord
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.com
+
+# Pinterest
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 pin.it
+
+# LinkedIn
+0.0.0.0 linkedin.com
+0.0.0.0 www.linkedin.com
+
+# Tumblr
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+
+# Twitch
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 m.twitch.tv
+
+# Threads alternatives / communities
+0.0.0.0 mastodon.social
+0.0.0.0 bsky.app
+0.0.0.0 www.bsky.app
+
+# Quora
+0.0.0.0 quora.com
+0.0.0.0 www.quora.com
+
+
+# ==========================================
+# END OF SOCIAL MEDIA BLOCKLIST
+# ==========================================

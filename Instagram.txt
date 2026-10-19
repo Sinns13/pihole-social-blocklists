@@ -1,0 +1,7 @@
+#Instagram Blocker#
+
+# Instagram
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 threads.net
+0.0.0.0 www.threads.net
