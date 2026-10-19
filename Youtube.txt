@@ -1,7 +1,52 @@
-# YouTube
-0.0.0.0 youtube.com
-0.0.0.0 www.youtube.com
-0.0.0.0 m.youtube.com
-0.0.0.0 youtu.be
-0.0.0.0 youtube-nocookie.com
-0.0.0.0 www.youtube-nocookie.com
+
+# YouTube Comprehensive Blocklist
+# Repository: pihole-social-blocklists
+#
+# SECTION 1: DOMAINS
+# These entries can be used in a standard Pi-hole Adlist.
+
+youtube.com
+www.youtube.com
+m.youtube.com
+music.youtube.com
+gaming.youtube.com
+kids.youtube.com
+studio.youtube.com
+tv.youtube.com
+youtubekids.com
+youtubeeducation.com
+youtubecreatorstudio.com
+youtube.tv
+youtu.be
+yt.be
+youtube-nocookie.com
+googlevideo.com
+redirector.googlevideo.com
+manifest.googlevideo.com
+ytimg.com
+ggpht.com
+youtubeanalytics.com
+youtubeexperiments.com
+youtube.googleapis.com
+youtubei.googleapis.com
+youtubeembeddedplayer.googleapis.com
+youtube-ui.l.google.com
+youtube.l.google.com
+
+# SECTION 2: REGEX RULES
+# These are NOT imported as regex by a standard Pi-hole Adlist.
+# Add them individually as Regex Deny rules in Pi-hole.
+
+(^|\.)youtube\.com$
+(^|\.)youtu\.be$
+(^|\.)yt\.be$
+(^|\.)youtube-nocookie\.com$
+(^|\.)youtubekids\.com$
+(^|\.)youtubeeducation\.com$
+(^|\.)youtubecreatorstudio\.com$
+(^|\.)youtube\.tv$
+(^|\.)googlevideo\.com$
+(^|\.)ytimg\.com$
+(^|\.)ggpht\.com$
+(^|\.)youtubeanalytics\.com$
+(^|\.)youtubeexperiments\.com$
