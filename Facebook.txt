@@ -1,5 +1,5 @@
-# This blocklist helps Pi-hole's admin restrict access to Facebook and its domains.
-# Curated from my own log and some more sources online.
+# Facebook
+
 
 0.0.0.0 apps.facebook.com
 0.0.0.0 connect.facebook.net
