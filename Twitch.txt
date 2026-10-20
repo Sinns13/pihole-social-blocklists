@@ -1,7 +1,5 @@
 
 # Twitch Comprehensive Blocklist
-# Repository: Sinns13/pihole-social-blocklists
-# Format: Pi-hole Adlist - one domain per line
 
 # Main website
 twitch.tv
