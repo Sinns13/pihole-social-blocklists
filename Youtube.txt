@@ -1,13 +1,4 @@
 # Pihole-youtube-blocklist
-# Plain-domain list — import this file as an Adlist in Pi-hole
-# (Group Management > Adlists) to block YouTube's core domains.
-#
-# NOTE: Google serves YouTube video/streaming traffic from a huge,
-# constantly-changing set of *.googlevideo.com edge hostnames
-# (e.g. rr3---sn-abc123.googlevideo.com) that cannot be enumerated
-# in a static list. For a complete block, ALSO add the regex
-# patterns in regex.txt under Domains > Regex denylist in Pi-hole.
-# See README.md for full setup instructions.
 
 youtube.com
 www.youtube.com
