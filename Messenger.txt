@@ -1,5 +1,6 @@
 
-#Related Domains for: messenger
+#Messenger
+
 0.0.0.0 messenger.com
 0.0.0.0 l.messenger.com
 0.0.0.0 en-gb.messenger.com
