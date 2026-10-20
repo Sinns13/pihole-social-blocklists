@@ -1,13 +1,4 @@
-# Title: TikTok Domain Blocklist
-# Description: This hosts file is a collection of domains that are used by several
-# TikTok Apps.
-# Homepage: https://gist.github.com/Nick390/6314a149845e030576d05a3d898fef30
-# License: MIT
-# URL: https://gist.githubusercontent.com/Nick390/6314a149845e030576d05a3d898fef30/raw/tiktok_blocklist.txt
-# Date: 19 March 2026 17:48 UTC+3
-# Last modified: 24 March 2026 01:12 UTC+3
-# Number of unique domains: 1723
-# ===============================================================
+#TikTok Domain Blocklist
 
 0.0.0.0 10th-anniversary.bytedance.com
 0.0.0.0 11th-anniversary.bytedance.com
