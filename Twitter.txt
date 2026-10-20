@@ -1,15 +1,4 @@
-# Title: Twitter Block List
-# Description: Twitter/X domains
-# Homepage: https://github.com/blocklistproject/Lists
-# License: MIT
-# Last modified: 2026-07-06 00:40:32 UTC
-# Format: hosts
-# Entries: 1,193
-# URL: 
-#
-# This list is maintained by The Block List Project
-# https://github.com/blocklistproject/Lists
-#
+# Twitter Block List
 
 0.0.0.0 0.twitter.com
 0.0.0.0 2010.twitter.com
