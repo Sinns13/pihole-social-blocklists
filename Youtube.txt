@@ -38,6 +38,30 @@ youtubekids.com
 m.youtubekids.com
 youtubegaming.com
 jnn-pa.googleapis.com
+youtube.com
+youtu.be
+yt.be
+youtube-nocookie.com
+youtubekids.com
+youtubeeducation.com
+youtube-ui.l.google.com
+youtube.l.google.com
+wide-youtube.l.google.com
+withyoutube.com
+rewind.youtube
+googlevideo.com
+ytimg.com
+ggpht.com
+ggpht.cn
+youtube.googleapis.com
+youtubei.googleapis.com
+youtubeembeddedplayer.googleapis.com
+yt3.ggpht.com
+i.ytimg.com
+s.ytimg.com
+ytimg.l.google.com
+youtube-ui.l.google.com
+youtube.l.google.com
 0.0.0.0 ggpht.cn
 0.0.0.0 ggpht.com
 0.0.0.0 googlevideo.com
@@ -213,3 +237,14 @@ jnn-pa.googleapis.com
 0.0.0.0 youtubemobilesupport.com
 0.0.0.0 yt.be
 0.0.0.0 ytimg.com
+(\.|^)youtube\.com$
+(\.|^)youtu\.be$
+(\.|^)yt\.be$
+(\.|^)youtube-nocookie\.com$
+(\.|^)googlevideo\.com$
+(\.|^)ytimg\.com$
+(\.|^)ggpht\.com$
+(\.|^)youtubekids\.com$
+(\.|^)youtubeeducation\.com$
+(\.|^)youtube\.googleapis\.com$
+(\.|^)youtubei\.googleapis\.com$
